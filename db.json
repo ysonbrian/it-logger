@@ -20,6 +20,13 @@
       "tech": "Sera Wilson",
       "date": "2021-03-02T08:10:38.978Z",
       "id": 3
+    },
+    {
+      "message": "#4 System broke down",
+      "attention": true,
+      "tech": "YoungDuk Son",
+      "date": "2021-03-08T05:20:53.949Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -39,14 +46,9 @@
       "lastName": "Wilson"
     },
     {
-      "firstName": "Greg",
-      "lastName": "Harris",
+      "firstName": "YoungDuk",
+      "lastName": "Son",
       "id": 4
-    },
-    {
-      "firstName": "Jill",
-      "lastName": "Smith",
-      "id": 5
     }
   ]
 }
